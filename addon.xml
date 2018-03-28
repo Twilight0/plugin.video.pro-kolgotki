@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.pro-kolgotki" name="Pro Kolgotki" version="2.2.0" provider-name="Twilight0">
+    <requires>
+        <import addon="xbmc.python" version="2.24.0"/>
+        <import addon="plugin.video.youtube" version="5.4.0"/>
+        <import addon="script.module.tulip" version="1.3.4"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Pro Kolgotki addon</summary>
+        <description lang="en">This addon may contain videos that are suitable to adults! Please proceed only if you 're over 18 years old</description>
+        <summary lang="el">Πρόσθετο Pro Kolgotki</summary>
+        <description lang="el">Το πρόσθετο αυτό ενδέχεται να περιέχει βίντεο που είναι κατάλληλα μόνο για ενήλικες. Προχωρήστε μόνο αν είστε άνω των 18 ετών</description>
+        <license>GNU GPL, version 2 or later</license>
+        <size>133900</size>
+        <website>http://pro-kolgotki.com/</website>
+        <source>https://github.com/Twilight0/plugin.video.pro-kolgotki</source>
+    </extension>
+    <news>
+28-03-2018 - [B]2.2.0[/B]
+- Added external links menu
+    </news>
+</addon>
