@@ -226,12 +226,12 @@ def main():
             'action': 'videos',
             'icon': control.addonInfo('icon')
         }
-        ,
-        {
-            'title': 30002,
-            'action': 'playlists',
-            'icon': 'playlists.png'
-        }
+        # ,
+        # {
+        #     'title': 30002,
+        #     'action': 'playlists',
+        #     'icon': 'playlists.png'
+        # }
         ,
         {
             'title': 30003,
@@ -248,7 +248,7 @@ def main():
         {
             'title': 30026,
             'action': 'external',
-            'icon': 'channels.png'
+            'icon': 'main.png'
         }
         ,
         {
@@ -287,6 +287,12 @@ def external(dialog=False):
         }
         ,
         {
+            'title': '50 free HQ samples & mailing list',
+            'url': 'http://bit.ly/50-free-pics',
+            'icon': 'mail.png'
+        }
+        ,
+        {
             'title': 'Instagram',
             'url': 'https://www.instagram.com/pro_kolgotki/',
             'icon': 'instagram.png'
@@ -301,7 +307,7 @@ def external(dialog=False):
         {
             'title': 'Tumblr',
             'url': 'http://fire-81.tumblr.com/',
-            'icon': 'main.png'
+            'icon': 'tumblr.png'
         }
         ,
         {
