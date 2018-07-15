@@ -51,27 +51,6 @@ def third_party():
         }
         ,
         {
-            'title': 'My Fashion for legs',
-            'icon': 'https://yt3.ggpht.com/-8KB9QMHgpfU/AAAAAAAAAAI/AAAAAAAAAAA/FnYtRAmeyfI/s256-c-k-no-mo-rj-c0xffffff/photo.jpg',
-            'url': 'plugin://plugin.video.youtube/channel/UCxDGBROh_raLb2hmGpnpwSw/',
-            'fanart': 'https://yt3.ggpht.com/NrNpodrc7HOyHazqoR325oG3nAIvZ1w2Xm892bMjId5pvZvz-ALJ_r7TNi9SliCUIfgY_Hqv7Q=w1280'
-        }
-        ,
-        {
-            'title': 'My Pantyhose Girl',
-            'icon': 'https://yt3.ggpht.com/-xcSz2kynP9Y/AAAAAAAAAAI/AAAAAAAAAAA/Yb0p_NoTlHo/s256-c-k-no-mo-rj-c0xffffff/photo.jpg',
-            'url': 'plugin://plugin.video.youtube/channel/UCjD1IY6M5HXXfwDIsunPnNw/',
-            'fanart': 'https://yt3.ggpht.com/Bx9a_Wd9utXjH5bIYs7J7IY6V1nwb3658biejUYcAE3b6O2PtKuWVdxuil-1oOPSC5YRO4aP=w1280'
-        }
-        # ,
-        # {
-        #     'title': 'Jeny Smith',
-        #     'icon': 'https://yt3.ggpht.com/-hXeRc4Fw_xw/AAAAAAAAAAI/AAAAAAAAAAA/tPbQ_JwDx5w/s256-c-k-no-mo-rj-c0xffffff/photo.jpg',
-        #     'url': 'plugin://plugin.video.youtube/channel/UCHYnTMm5xqESRSyiJhkfvng/',
-        #     'fanart': 'https://yt3.ggpht.com/f8xlLtJzh80mmhkBN4Ebt1X9ATH1jBBwJe9hI2LHdAD2afKdI5cCfPD6KFGR17NriKhBIORN=w1280'
-        # }
-        ,
-        {
             'title': 'World Celebrities in tights',
             'icon': 'https://yt3.ggpht.com/-REHqs4coXwk/AAAAAAAAAAI/AAAAAAAAAAA/rB3Xe2gyTnY/s256-c-k-no-mo-rj-c0xffffff/photo.jpg',
             'url': 'plugin://plugin.video.youtube/channel/UC2QSfy79fD8HY-za-NMghkQ/',
@@ -100,10 +79,10 @@ def third_party():
         }
         ,
         {
-            'title': 'Model Zisan',
-            'icon': 'https://yt3.ggpht.com/-z953IQPTa4Q/AAAAAAAAAAI/AAAAAAAAAAA/DTjIqPrhHPs/s256-c-k-no-mo-rj-c0xffffff/photo.jpg',
-            'url': 'plugin://plugin.video.youtube/channel/UCbVTkIhviMBkm6bTBBssOUw/',
-            'fanart': control.addonInfo('fanart')
+            'title': 'Lingerie Lowdown',
+            'icon': 'https://yt3.ggpht.com/-clwYTJ8GzXg/AAAAAAAAAAI/AAAAAAAAAAA/FT08dtFYiVU/s256-mo-c-c0xffffffff-rj-k-no/photo.jpg',
+            'url': 'plugin://plugin.video.youtube/channel/UCeH_nNpzJDfY7FhJgxdaeng/',
+            'fanart': 'https://yt3.ggpht.com/nrJM7wM_xtTyBf4EusAgpztG7fJsOUQZ0yQsTZ_B1V5g2YP9-zuFYHw1z6WI2YEwaa1b8uNuoQ=s0'
         }
         ,
         {
@@ -121,10 +100,24 @@ def third_party():
         }
         ,
         {
-            'title': 'Samira mylegs24_de',
+            'title': 'Samira',
             'icon': 'https://yt3.ggpht.com/-hKpE0hwTuwo/AAAAAAAAAAI/AAAAAAAAAAA/YNIpoelRQNE/s256-mo-c-c0xffffffff-rj-k-no/photo.jpg',
             'url': 'plugin://plugin.video.youtube/channel/UCEFDQp5Higrs8alJYo1njyw/',
             'fanart': 'https://yt3.ggpht.com/VdmecFirkPL2ZRjgvUtJseUjvD3mUWKon032CH3s5BEZAoMkDAGhM1EF7Mj0QkltFwz_wKBY8A=s0'
+        }
+        ,
+        {
+            'title': 'Vanessa Pur (English)',
+            'icon': 'https://yt3.ggpht.com/-jy953Rzc9MI/AAAAAAAAAAI/AAAAAAAAAAA/ujgKkWQzcs0/s256-mo-c-c0xffffffff-rj-k-no/photo.jpg',
+            'url': 'plugin://plugin.video.youtube/channel/UCBTmne690IZeadMBepwoY_g/',
+            'fanart': 'https://yt3.ggpht.com/PYdFaeoM8-blOwV7UTxdVaJC57YuggnSxoO50MCI_emIpl-Gr68yKXCz3RTqed_oQHWnayDFgJU=s0'
+        }
+        ,
+        {
+            'title': 'Vanessa Pur (German)',
+            'icon': 'https://yt3.ggpht.com/-L5ptBTVsRkM/AAAAAAAAAAI/AAAAAAAAAAA/y5tbVlqHwb4/s256-mo-c-c0xffffffff-rj-k-no/photo.jpg',
+            'url': 'plugin://plugin.video.youtube/channel/UC71tMTaUOEw2j5UwUxQe5cQ/',
+            'fanart': 'https://yt3.ggpht.com/3Htmp9sWW31hBS_089K4u2uVjoXnfbV0nGCpnrjAMJnvzurVulqgL_TkNsMU2wtJGIrCoz-hOw=s0'
         }
     ]
 
@@ -361,7 +354,7 @@ def yt_setup():
     api_keys = {
         'enablement': 'true',
         'id': '498788153161-pe356urhr0uu2m98od6f72k0vvcdsij0.apps.googleusercontent.com',
-        'api_key': 'AIzaSyA8k1OyLGf03HBNl0byD511jr9cFWo2GR4',
+        'api_key': key,
         'secret': 'e6RBIFCVh1Fm-IX87PVJjgUu'
     }
 
